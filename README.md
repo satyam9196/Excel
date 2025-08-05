@@ -75,3 +75,8 @@ Want to add more formulas or exercises? PRs and suggestions are welcome!
 ## 📫 Contact
 
 For feedback or questions, please r
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
