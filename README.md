@@ -4,79 +4,62 @@
 
 This repository contains various Excel-based assignments and practice workbooks demonstrating core data analysis skills such as Pivot Tables, VLOOKUP, HLOOKUP, and more advanced Excel functions.
 
----
+📘 Excel Assignments Repository
+👤 Author
 
-## 📁 Folder Structure
+satyam9196
 
-```
-excel-projects/
-│
-├── HLOOKUP_Assignment_1.xlsx         # Assignment practicing HLOOKUP formulas
-├── PIVOT TABLE (1).xlsx              # Pivot Table data summary project
-├── SHORT AND ADVANCE.xlsx            # Advanced Excel functions & shortcuts
-├── VLOOKUP_Assignment (1).xlsx       # Assignment with VLOOKUP applications
-└── README.md                         # This file
-```
+🗂️ Files Overview
+1. HLOOKUP_Assignment_1.xlsx
 
----
+Contains examples and exercises related to the HLOOKUP function in Excel.
 
-## 🧠 Skills Demonstrated
+Demonstrates how to perform horizontal lookups across data tables.
 
-- ✅ VLOOKUP & HLOOKUP
-- ✅ Pivot Table Creation & Filtering
-- ✅ Excel Shortcuts & Advanced Functions
-- ✅ Data Cleaning & Transformation
-- ✅ Table Referencing, Named Ranges, IF/IFS, INDEX-MATCH
+2. VLOOKUP_Assignment (1).xlsx
 
----
+Focuses on VLOOKUP function usage.
 
-## 📌 Project Highlights
+Includes step-by-step examples for vertical data lookup and matching.
 
-### 🔹 VLOOKUP Assignment
-Used for searching and returning values from a different table. Practical scenarios covered.
+3. PIVOT TABLE (1).xlsx
 
-### 🔹 HLOOKUP Assignment
-Similar to VLOOKUP but horizontal data lookup. Demonstrates student marks lookup and performance.
+Includes data and exercises for creating and analyzing Pivot Tables.
 
-### 🔹 Pivot Table Workbook
-Used to analyze large datasets quickly. Includes slicers and summarized insights.
+Helps summarize, filter, and visualize data efficiently.
 
-### 🔹 Advanced Excel Workbook
-Practice with:
-- Nested IF
-- Conditional Formatting
-- Data Validation
-- Lookup + Match functions
+4. SHORT AND ADVANCE.xlsx
 
----
+Likely contains advanced Excel concepts and shortcuts.
 
-## 🎯 Best For
+Could include advanced formulas, data cleaning, and formatting tricks.
 
-- Beginners to intermediate Excel users
-- Students preparing for Excel-based roles
-- BI and Data Analyst learners
+5. Hospital_Patient_Data.xlsx
 
----
+Sample dataset containing hospital or patient information.
 
-## ✅ How to Use
+Useful for practicing Excel data analysis and visualization techniques.
 
-1. Download or clone the repo.
-2. Open `.xlsx` files in **Microsoft Excel** or **Google Sheets**.
-3. Practice and explore each sheet as labeled.
+6. README.md
 
----
+The file you are currently reading.
 
-## 💬 Contributions
+Provides an overview of the repository and its contents.
 
-Want to add more formulas or exercises? PRs and suggestions are welcome!
+🧠 Learning Objectives
 
----
+This repository is intended to help you:
 
-## 📫 Contact
+Understand and apply Excel lookup functions (VLOOKUP, HLOOKUP).
 
-For feedback or questions, please r
+Master Pivot Tables for summarizing and analyzing data.
 
-## 👨‍💻 Author
+Practice advanced Excel skills including formulas, data sorting, and shortcuts.
 
-**Satyam9196**  
-GitHub: [@satyam9196](https://github.com/satyam9196)
+⚙️ Requirements
+
+Microsoft Excel (2016 or later) or Google Sheets.
+
+📫 Contact
+
+For any queries or suggestions, feel free to reach out via GitHub profile @satyam9196
